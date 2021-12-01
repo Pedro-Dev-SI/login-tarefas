@@ -3,6 +3,6 @@
 define('HOST', 'localhost');
 define('USUARIO', 'root');
 define('SENHA', '');
-define('DB', 'pedroselvate_atividade');
+define('DBNOME', 'pedroselvate_atividade');
 
-$conexao = mysqli_connect(HOST, USUARIO, SENHA, DB) or die ('Erro na conexão');
+$conexao = mysqli_connect(HOST, USUARIO, SENHA, DBNOME) or die ('Erro na conexão');
