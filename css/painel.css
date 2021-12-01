@@ -1,0 +1,48 @@
+
+.greetings{
+   font-size: 35px;
+   margin-top: 25px;
+   margin-left: 20px;
+}
+
+.task-title{
+   font-size: 25px;
+   margin-top: 25px;
+   margin-left: 20px;
+}
+
+.form-task{
+   width: 500px;
+   display: flex;
+   align-items: center;
+}
+
+#input-tasks{
+   width: 100%;
+   margin-top: 15px;
+   margin-left: 20px;
+}
+
+.form-task button{
+   margin-left: 20px;
+   margin-top: 12px;
+}
+
+ul{
+   margin-top: 25px;
+}
+
+.task-items{
+   margin-left: 20px;
+   margin-top: 10px;
+   font-size: 20px;
+}
+
+.warnings{
+   margin-left: 20px;
+   margin-top: 3px;
+   font-size: 15px;
+   font-weight: bold;
+   color: red;
+}
+
